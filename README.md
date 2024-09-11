@@ -10,7 +10,7 @@
 | 이상경 | sksk713     | https://lee-s-k.tistory.com/    |
 | 이상훈 | strangehoon | https://velog.io/@strangehoon/  |
 | 박소영 | sso214      | https://velog.io/@sso214/       |
-| 황민채 |             |                                 |
+| 박동현 | dhyun2      | https://dhyun2.tistory.com/     |
 |        |             |                                 |
 
 ## 스터디 내용
