@@ -5,8 +5,6 @@
 | 이름   | GitHub ID   | blog URL                        |
 | ------ | ----------- | ------------------------------- |
 | 최수정 | S2uJeong    | https://s2ujeong.tistory.com/   |
-| 홍성우 | hsw824      | https://velog.io/@ghdtjddn0824/ |
-| 김종한 | jong-k      | https://sundance.tistory.com/   |
 | 이상경 | sksk713     | https://lee-s-k.tistory.com/    |
 | 이상훈 | strangehoon | https://velog.io/@strangehoon/  |
 | 박소영 | sso214      | https://velog.io/@sso214/       |
