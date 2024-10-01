@@ -5,11 +5,10 @@
 | 이름   | GitHub ID   | blog URL                        |
 | ------ | ----------- | ------------------------------- |
 | 최수정 | S2uJeong    | https://s2ujeong.tistory.com/   |
-| 이상경 | sksk713     | https://lee-s-k.tistory.com/    |
 | 이상훈 | strangehoon | https://velog.io/@strangehoon/  |
 | 박소영 | sso214      | https://velog.io/@sso214/       |
 | 박동현 | dhyun2      | https://dhyun2.tistory.com/     |
-|        |             |                                 |
+| 주환석 | tiaz0128    | https://tiaz.dev/               |
 
 ## 스터디 내용
 
@@ -43,8 +42,8 @@
 
 ### 리뷰 팀
 
-- 백엔드팀 : 최수정, 이상훈, 이상경,
-- 프론트팀 : 김종한, 박소영, 홍성우,
+- 백엔드팀 : 최수정, 이상훈, 주환석,
+- 프론트팀 : 박소영, 박동현, 전민아, 이은영
 
 ## git 규칙
 
