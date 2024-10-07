@@ -9,6 +9,7 @@
 | 박소영 | sso214      | https://velog.io/@sso214/       |
 | 박동현 | dhyun2      | https://dhyun2.tistory.com/     |
 | 주환석 | tiaz0128    | https://tiaz.dev/               |
+| 이은영 | ieun32      | https://velog.io/@ieun32/      |
 
 ## 스터디 내용
 
