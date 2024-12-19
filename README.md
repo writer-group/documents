@@ -1,15 +1,16 @@
 # 📝 글쓰기 스터디 Writer-Group
 
 ## 팀원 소개
+| 이름   | GitHub ID    | blog URL                            |
+| ------ | ------------ |-------------------------------------|
+| 최수정 | S2uJeong     | https://s2ujeong.tistory.com/       |
+| 이상훈 | strangehoon  | https://velog.io/@strangehoon/      |
+| 주환석 | tiaz0128     | https://tiaz.dev/                   |
+| 이은영 | ieun32       | https://velog.io/@ieun32/           |
+| 윤문열 | munyeol-Yoon | https://muyeon95.tistory.com/       |
+| 김성용 | yongseong2   | https://velog.io/@yongseong2/posts/ |
 
-| 이름   | GitHub ID   | blog URL                        |
-| ------ | ----------- | ------------------------------- |
-| 최수정 | S2uJeong    | https://s2ujeong.tistory.com/   |
-| 이상훈 | strangehoon | https://velog.io/@strangehoon/  |
-| 박소영 | sso214      | https://velog.io/@sso214/       |
-| 박동현 | dhyun2      | https://dhyun2.tistory.com/     |
-| 주환석 | tiaz0128    | https://tiaz.dev/               |
-| 이은영 | ieun32      | https://velog.io/@ieun32/      |
+
 
 ## 스터디 내용
 
@@ -34,6 +35,7 @@
 7. 그 다음주 일요일 안에 같은 리뷰팀의 팀원 글에 대해 해당 PR comment에 리뷰를 작성한다.
    - 일주일에 글을 여러 개 쓰는 것은 가능하지만, 팀원들의 시간관리를 위해 리뷰를 받을 글은 PR에 올린 글 하나로 제한 
 
+
 ## 리뷰 
 
 ### 글 쓰기 리뷰 컨벤션 
@@ -43,10 +45,10 @@
 
 ### 리뷰 팀
 
-- 백엔드팀 : 최수정, 이상훈, 주환석,
-- 프론트팀 : 박소영, 박동현, 전민아, 이은영
+- 백엔드팀 : 최수정, 이상훈, 주환석
+- 프론트팀 : 이은영, 김성용, 윤문열
 
-## git 규칙
+### git 규칙
 
 - git branch 
   - main : readme 수정 같은 공통 파일
